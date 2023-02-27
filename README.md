@@ -7,34 +7,39 @@
 
 - 💬 Ask me about **anything [here](https://github.com/gudtldn/gudtldn/issues)**
 
-- 📫 How to reach me **gudtldn1234@gmail.com**
+- 📫 How to reach me **gudtldn1234@gmail.com** || 𝓸𝓻𝓭𝓲𝓷𝓪𝓻𝔂_𝓱𝓾𝓶𝓪𝓷#3906
 
 ### Languages and Tools:
-<p align="left"> 
+<!-- https://simpleicons.org/ -->
+<p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
     </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
     </a>
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+    </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
     </a>
 </p>
 
