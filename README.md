@@ -24,7 +24,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gudtldn&show_icons=true&locale=en&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gudtldn&show_icons=true&exclude_repo=gudtldn.github.io&locale=en&layout=compact)
 
 ![hyongsiwoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gudtldn&count_private=true&show_icons=true&locale=en)
 
