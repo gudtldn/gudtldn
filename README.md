@@ -3,7 +3,7 @@
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=gudtldn&label=Profile%20views&color=0e75b6&style=flat) -->
 
-- 🌱 I’m currently learning **C++, C#, Rust, Python, Tensorflow etc.**
+- 🌱 I’m currently learning **C++, C#, Rust, Python, Tensorflow, Bevy etc.**
 
 - 💬 Ask me about **anything [here](https://github.com/gudtldn/gudtldn/issues)**
 
