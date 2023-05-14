@@ -3,7 +3,7 @@
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=gudtldn&label=Profile%20views&color=0e75b6&style=flat) -->
 
-- 🌱 I’m currently learning **C++, C#, Rust, Python, Tensorflow, Bevy etc.**
+- 🌱 I’m currently learning **C++, Rust, Python, UnrealEngine etc.**
 
 - 💬 Ask me about **anything [here](https://github.com/gudtldn/gudtldn/issues)**
 
@@ -14,9 +14,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+<!-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) -->
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+<!-- [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) -->
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
