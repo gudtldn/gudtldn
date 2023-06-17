@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything [here](https://github.com/gudtldn/gudtldn/issues)**
 
-- 📫 How to reach me **gudtldn1234@gmail.com** || 𝓸𝓻𝓭𝓲𝓷𝓪𝓻𝔂_𝓱𝓾𝓶𝓪𝓷#3906
+- 📫 How to reach me `email:`**gudtldn1234@gmail.com** || `discord:`**ordinary_human**
 
 ### Languages and Tools:
 <!-- https://simpleicons.org/ -->
