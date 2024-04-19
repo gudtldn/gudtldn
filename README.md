@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=My%20Github%20Profile%20Page%20&fontSize=40&anon=fadeIn&fontAlignY=40&color=gradient&fontAlign=30)
+
 # Hi 👋, I'm Siwoo
 ## Welcome to my profile page!
-
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=gudtldn&label=Profile%20views&color=0e75b6&style=flat) -->
 
 - 🌱 I’m currently learning **C++, Rust, Python, UnrealEngine etc.**
 
@@ -34,6 +33,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gudtldn&bg_color=00000000&hide_border=true&langs_count=10&exclude_repo=gudtldn.github.io&layout=compact)
 
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gudtldn) -->
+
+![Profile views](https://komarev.com/ghpvc/?username=gudtldn&label=Profile%20views&color=lightgrey&style=flat&abbreviated=true)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&anon=fadeIn&color=gradient)
 
