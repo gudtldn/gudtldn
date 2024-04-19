@@ -30,9 +30,8 @@
   [![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
   [![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gudtldn&show_icons=true&exclude_repo=gudtldn.github.io&locale=en&layout=compact)
-
-![hyongsiwoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gudtldn&count_private=true&show_icons=true&locale=en)
+![hyongsiwoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gudtldn&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=400)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gudtldn&bg_color=00000000&hide_border=true&langs_count=10&exclude_repo=gudtldn.github.io&layout=compact)
 
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gudtldn) -->
 
