@@ -11,7 +11,7 @@
   - `email:`**gudtldn1234@gmail.com**
   - `discord:`**ordinary_human**
 
-## Languages and Tools:
+## Languages and Tools
 <!-- https://simpleicons.org/ -->
 
 - Languages
