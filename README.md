@@ -32,6 +32,9 @@
 ![hyongsiwoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gudtldn&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=400)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gudtldn&bg_color=00000000&hide_border=true&langs_count=10&exclude_repo=gudtldn.github.io&layout=compact)
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gudtldn)](https://solved.ac/gudtldn)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=gudtldn&theme=cold)
+
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gudtldn) -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=gudtldn&label=Profile%20views&color=lightgrey&style=flat&abbreviated=true)
