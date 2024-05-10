@@ -19,7 +19,8 @@
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/)
   [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
   [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-  [![MySql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![MySql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://commonmark.org/help/)
 
 - Tools
   - [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
