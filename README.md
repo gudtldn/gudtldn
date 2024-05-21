@@ -8,7 +8,7 @@
 - 💬 Ask me about **anything [here](https://github.com/gudtldn/gudtldn/issues)**
 
 - 📫 How to reach me
-  - `email:`**gudtldn1234@gmail.com**
+  - `email:`**gudtldn1234.business@gmail.com**
   - `discord:`**ordinary_human**
 
 ## Languages and Tools
