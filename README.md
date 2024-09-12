@@ -3,7 +3,12 @@
 # Hi 👋, I'm Siwoo
 ## Welcome to my profile page!
 
-- 🌱 I’m currently learning **Modern C++, Rust, Python, UnrealEngine, Algorithm etc.**
+- 🌱 I’m currently learning
+  - x86 Assembly
+  - Modern C++
+  - Rust
+  - Python
+  - UnrealEngine etc.
 
 - 💬 Ask me about **anything [here](https://github.com/gudtldn/gudtldn/issues)**
 
