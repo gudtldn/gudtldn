@@ -8,6 +8,7 @@
   - Modern C++
   - Rust
   - Python
+  - DirectX
   - UnrealEngine etc.
 
 - 💬 Ask me about **anything [here](https://github.com/gudtldn/gudtldn/issues)**
