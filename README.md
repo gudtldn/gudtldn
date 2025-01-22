@@ -14,7 +14,7 @@
 
 - 📫 How to reach me
   - `personal email:`**gudtldn1234@gmail.com**
-  - `business email:`**gudtldn1234.business@gmail.com**
+  - `business email:`**gudtldn1234.work@gmail.com**
   - `discord:`**ordinary_human**
 
 ## Languages and Tools
